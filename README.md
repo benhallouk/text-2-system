@@ -1,5 +1,7 @@
 # Text to system
 
+Text to system is a customer driven conversation system, it accept text messages (SMS) as a request and pass it to a fully automated service bot hosted in azure and with its contextual language understanding it can create conversational interfaces for various scenarios like banking, travel, and entertainment purposes, in this example I use the same concept to create ecomrece bot for as a customer ordering system.
+
 ## System design
 
 Text to system contains 3 main components:
