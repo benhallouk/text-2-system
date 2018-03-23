@@ -1,0 +1,9 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benhallouk/text-2-system.git",
+  "author": "Amine Benhallouk",
+  "license": "MIT",
+  "private": true
+}
